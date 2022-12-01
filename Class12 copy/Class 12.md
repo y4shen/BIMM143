@@ -1072,7 +1072,7 @@ pathview(gene.data=foldchanges, pathway.id="hsa05310")
 
     'select()' returned 1:1 mapping between keys and columns
 
-    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143/Class12 copy
+    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143-git/Class12 copy
 
     Info: Writing image file hsa05310.pathview.png
 
@@ -1087,7 +1087,7 @@ pathview(gene.data=foldchanges, pathway.id="hsa05332")
 
     'select()' returned 1:1 mapping between keys and columns
 
-    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143/Class12 copy
+    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143-git/Class12 copy
 
     Info: Writing image file hsa05332.pathview.png
 
@@ -1100,7 +1100,7 @@ pathview(gene.data=foldchanges, pathway.id="hsa04940")
 
     'select()' returned 1:1 mapping between keys and columns
 
-    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143/Class12 copy
+    Info: Working in directory /Users/yutingshen/Desktop/UCSD/4.1/BIMM 143/Class10/Class10_files/BIMM143-git/Class12 copy
 
     Info: Writing image file hsa04940.pathview.png
 
