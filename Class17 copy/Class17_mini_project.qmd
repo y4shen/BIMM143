@@ -1,7 +1,7 @@
 ---
 title: "Class17"
 author: "Yuting Shen"
-format: pdf
+format: gfm
 ---
 
 ```{r}
